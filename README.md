@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChinoYrill
-- 👀 I’m interested in computer engineering
-- 🌱 I’m currently learning embedded system
+- 👀 I’m interested in back-end development
+- 🌱 I’m currently learning cs50 from harvard
 - 💞️ I’m looking to collaborate on study groups
 - 📫 How to reach me chino00yrill@gmail.com
 
